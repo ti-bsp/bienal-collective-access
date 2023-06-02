@@ -1,8 +1,10 @@
 # Perfil de configuração do Collective Access: Fundação Bienal de São Paulo
 
-Perfil de configuração baseado no modelo de dados desenvolvido pelo Arquivo Bienal para a implantação de um sistema de gestão de acervos documentais utilizando o software em código aberto Collective Access, projetado especificamente para uso em instituições culturais (arquivos, museus e bibliotecas) com coleções grandes e heterogêneas, que têm características de catalogação complexas e requerem suporte para uma variedade de padrões de metadados e formatos de mídia. 
+Perfil de configuração baseado no modelo de dados desenvolvido pelo Arquivo Bienal para a implantação de um sistema de gestão de seus acervos documentais utilizando o software em código aberto Collective Access. 
 
-O Collective Access tem compatibilidade com diversos padrões internacionais de catalogação e, para o projeto do Arquivo Bienal, foram desenvolvidos modelos híbridos de dados com base nos padrões ISAD(G) - General International Standard Archival Description e Spectrum - UK Museum Collections Management Standard, possibilitando a criação de um arranjo hierárquico da documentação e uso de padrões de descrição arquivística, bibliográfica e museológica.
+Projetado para uso em instituições culturais (arquivos, museus e bibliotecas) com coleções grandes e heterogêneas que possuem características de catalogação complexas e que requerem suporte para uma variedade de padrões de metadados e formatos de mídia, o Collective Access está disponível gratuitamente sob a licença GNU General Public License de código aberto, o que significa que não é apenas gratuito para download e uso, mas que os usuários são incentivados a compartilhar e distribuir o código. Com esta iniciativa, a Fundação Bienal de São Paulo busca apoiar outras instituições culturais no desenvolvimento de seus modelos de dados, bem como estimular o uso de softwares de código aberto e se aproximar de outras instituições que utilizem ou que venham a desenvolver novas aplicações no Collective Access.
+
+Para o projeto do Arquivo Bienal, foram desenvolvidos modelos híbridos de dados com base nos padrões ISAD(G) - General International Standard Archival Description e Spectrum - UK Museum Collections Management Standard, possibilitando a criação de um arranjo hierárquico da documentação e uso de padrões de descrição arquivística, bibliográfica e museológica.
 
 As informações básicas do sistema caracterizam-se por 4 modelos de dados:
 
@@ -16,7 +18,7 @@ C = Entidades – modelo para descrição de pessoas, grupos ou instituições, 
 
 D = Obras – modelo para descrição das obras de arte participantes de eventos ou relacionadas na documentação de fundos e coleções.
 
-Este repositório contém pacote com perfil de configuração gerado na versão 1.7.8 da aplicação Providence para catalogação com todos ajustes, alterações e plugins desenvolvidos para implantação do modelo Arquivo Bienal, incluindo recursos de integração via api para ativos digitais armazenados no sistema ResourceSpace. O propósito desta ação é apoiar outras instituições culturais que buscam modelos para tratamento de dados, bem como estimular o uso de softwares de código aberto e inovações que possam surgir do versionamento da estrutura do Collective Access. Para maiores informações ver links abaixo.
+Este repositório contém um pacote com perfil de configuração gerado na versão 1.7.8 da aplicação Providence (para catalogação e gerenciamento de dados) com todos os ajustes, alterações e plugins desenvolvidos para o Arquivo Bienal, incluindo recursos de integração (via api) para visualização de ativos digitais armazenados no sistema ResourceSpace.  Para maiores informações ver links abaixo.
 
 ## Link solução
 
