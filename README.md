@@ -20,7 +20,7 @@ D = Obras – modelo para descrição das obras de arte participantes de eventos
 
 Este repositório contém um pacote com perfil de configuração gerado na versão 1.7.8 da aplicação Providence (para catalogação e gerenciamento de dados) com todos os ajustes, alterações e plugins desenvolvidos para o Arquivo Bienal, incluindo recursos de integração (via api) para visualização de ativos digitais armazenados no sistema ResourceSpace.  Para maiores informações ver links abaixo.
 
-## Link solução
+## links
 
 + http://arquivo.bienal.org.br/pawtucket/
 + https://www.bienal.org.br/arquivo-historico/
