@@ -1,4 +1,4 @@
-# Perfil de configuração Collective Access: Fundação Bienal de São Paulo
+# Perfil de configuração do Collective Access: Fundação Bienal de São Paulo
 
 Perfil de configuração baseado no modelo de dados desenvolvido pelo Arquivo Bienal para a implantação de um sistema de gestão de acervos documentais utilizando o software em código aberto Collective Access, projetado especificamente para uso em instituições culturais (arquivos, museus e bibliotecas) com coleções grandes e heterogêneas, que têm características de catalogação complexas e requerem suporte para uma variedade de padrões de metadados e formatos de mídia. 
 
