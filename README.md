@@ -1,8 +1,5 @@
-# CA
-documentação e compartilhamento Collective Access 
-nome do repositório: modelo-bienal-ca
+# Perfil de configuração Collective Access Fundação Bienal de São Paulo
 
-README.md
 Perfil de configuração baseado no modelo de dados desenvolvido pelo Arquivo Bienal para a implantação de um sistema de gestão de acervos documentais utilizando o software em código aberto Collective Access, projetado especificamente para uso em instituições culturais (arquivos, museus e bibliotecas) com coleções grandes e heterogêneas, que têm características de catalogação complexas e requerem suporte para uma variedade de padrões de metadados e formatos de mídia. 
 
 O Collective Access tem compatibilidade com diversos padrões internacionais de catalogação e, para o projeto do Arquivo Bienal, foram desenvolvidos modelos híbridos de dados com base nos padrões ISAD(G) - General International Standard Archival Description e Spectrum - UK Museum Collections Management Standard, possibilitando a criação de um arranjo hierárquico da documentação e uso de padrões de descrição arquivística, bibliográfica e museológica.
@@ -21,6 +18,7 @@ D = Obras – modelo para descrição das obras de arte participantes de eventos
 
 Este repositório contém pacote com perfil de configuração gerado na versão 1.7.8 da aplicação Providence para catalogação com todos ajustes, alterações e plugins desenvolvidos para implantação do modelo Arquivo Bienal, incluindo recursos de integração via api para ativos digitais armazenados no sistema ResourceSpace. O propósito desta ação é apoiar outras instituições culturais que buscam modelos para tratamento de dados, bem como estimular o uso de softwares de código aberto e inovações que possam surgir do versionamento da estrutura do Collective Access. Para maiores informações ver links abaixo.
 
+<hr>
 
 Link solução
 http://arquivo.bienal.org.br/pawtucket/
